@@ -17,7 +17,7 @@ Below is a simulated trajectory showing the motion planners capability in a comp
 <img src="https://github.com/ewarberg/Motion-planning-for-aggressive-flights-of-an-UAV/blob/main/complex_environment_result.gif" width="400" height="400">
 
 This result is using a obstacle avoidance motion primitive generator capable of aggressive maneuvers. 
-<img src="https://gits-15.sys.kth.se/warberg/KEX2021/blob/master/obstacle_avoidance_CBF.gif" width="400" height="400">
+<img src="https://github.com/ewarberg/Motion-planning-for-aggressive-flights-of-an-UAV/blob/main/obstacle_avoidance_CBF.gif" width="400" height="400">
 
 ## Start Guide
 
